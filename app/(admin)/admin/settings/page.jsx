@@ -1,3 +1,4 @@
+export const dynamic = 'force-dynamic';
 import SettingsForm from "./_components/settings-form";
 
 export const metadata = {

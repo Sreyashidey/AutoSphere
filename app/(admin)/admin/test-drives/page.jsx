@@ -1,3 +1,4 @@
+export const dynamic = 'force-dynamic';
 import React from "react";
 import TestDriveList from "./_components/test-drive-list";
 export const metadata = {

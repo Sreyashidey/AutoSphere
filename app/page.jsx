@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { getFeaturedCars } from "@/actions/home";
 import CarCard from "@/components/car-card";
 import HomeSearch from "@/components/home-search";

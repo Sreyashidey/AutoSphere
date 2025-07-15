@@ -1,3 +1,4 @@
+export const dynamic = 'force-dynamic';
 import react from "react"
 import CarsList from "./_components/car-list";
 export const metadata = {
